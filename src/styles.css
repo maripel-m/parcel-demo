@@ -1,0 +1,19 @@
+.button1 {
+    background-color: green;
+    color: white;
+}
+
+.button2 {
+    background-color: blue;
+    color: white;
+}
+
+body {
+    background-color: lightgray;
+    text-align: center;
+}
+
+h1 {
+    font-family: cursive;
+    color: saddlebrown;
+}
